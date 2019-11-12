@@ -1,0 +1,22 @@
+h1 {color: gold; font-size: 40pt; font-family: serif;} 
+
+h2 {color: gold; font-size: 20pt; font-family: sans-serif;} 
+
+h3 {color: cyan; font-size: 14pt;} 
+
+Body { background: midnightblue; 
+	     color: floralwhite;
+	     font-size: 14pt;
+	     font-family:monospace;   	 
+	       }
+
+nav a {	display: inline-block;
+        	border: 2px floralwhite;
+        	padding: 3px;
+		margin: 2px;
+		background: gold;}
+
+
+a:hover { color: white }
+
+
